@@ -18,7 +18,7 @@ The above commands will start the application on http://localhost:3000/
 
 Open this link [react-test](https://platzu16.github.io/react-assignment/) in new tab to test it.
 
-Note: please use the lates node and react versions.
+Note: please use the latest node and react versions.
 
 All done!!!
 
