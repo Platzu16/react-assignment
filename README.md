@@ -11,7 +11,7 @@ git clone https://github.com/Platzu16/react-assignment.git
 cd react-assignment && npm install
 npm run dev
 
-The above commands will start the application on http://localhost:3000/
+The above commands will start the application on http://localhost:3000/react-assignment/
 ```
 
 ## Github page link for the app
