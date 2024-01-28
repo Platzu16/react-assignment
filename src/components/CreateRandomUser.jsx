@@ -42,7 +42,7 @@ function CreateRandomUser() {
         <CardBody>
           <Box>
             <Heading size="xs" textTransform="uppercase">
-              Random User
+              Random Users
             </Heading>
             <Text pt="2" fontSize="sm">
               {randomUser && (
